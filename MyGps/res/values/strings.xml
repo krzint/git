@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyGps</string>
+    <string name="action_settings">Settings</string>
+    <string name="TURNGPSON">TURN GPS ON</string>
+    <string name="editTextShowLocation">ShowLoc</string>
+    <string name="title_activity_show_result">ShowResult</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
